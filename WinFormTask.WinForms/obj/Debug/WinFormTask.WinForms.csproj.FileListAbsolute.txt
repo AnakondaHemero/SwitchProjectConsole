@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Ism\ISMConditionalStatements\WinFormTask.WinForms\bin\Debug\WinFormTask.WinForms.exe.config
+C:\Users\User\Desktop\Ism\ISMConditionalStatements\WinFormTask.WinForms\bin\Debug\WinFormTask.WinForms.exe
+C:\Users\User\Desktop\Ism\ISMConditionalStatements\WinFormTask.WinForms\bin\Debug\WinFormTask.WinForms.pdb
+C:\Users\User\Desktop\Ism\ISMConditionalStatements\WinFormTask.WinForms\obj\Debug\WinFormTask.WinForms.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Ism\ISMConditionalStatements\WinFormTask.WinForms\obj\Debug\WinFormTask.WinForms.Form1.resources
+C:\Users\User\Desktop\Ism\ISMConditionalStatements\WinFormTask.WinForms\obj\Debug\WinFormTask.WinForms.Properties.Resources.resources
+C:\Users\User\Desktop\Ism\ISMConditionalStatements\WinFormTask.WinForms\obj\Debug\WinFormTask.WinForms.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Ism\ISMConditionalStatements\WinFormTask.WinForms\obj\Debug\WinFormTask.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ism\ISMConditionalStatements\WinFormTask.WinForms\obj\Debug\WinFormTask.WinForms.exe
+C:\Users\User\Desktop\Ism\ISMConditionalStatements\WinFormTask.WinForms\obj\Debug\WinFormTask.WinForms.pdb

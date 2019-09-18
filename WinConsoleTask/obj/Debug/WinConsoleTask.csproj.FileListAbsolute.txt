@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Ism\ISMConditionalStatements\WinConsoleTask\bin\Debug\WinConsoleTask.exe.config
+C:\Users\User\Desktop\Ism\ISMConditionalStatements\WinConsoleTask\bin\Debug\WinConsoleTask.exe
+C:\Users\User\Desktop\Ism\ISMConditionalStatements\WinConsoleTask\bin\Debug\WinConsoleTask.pdb
+C:\Users\User\Desktop\Ism\ISMConditionalStatements\WinConsoleTask\obj\Debug\WinConsoleTask.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Ism\ISMConditionalStatements\WinConsoleTask\obj\Debug\WinConsoleTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ism\ISMConditionalStatements\WinConsoleTask\obj\Debug\WinConsoleTask.exe
+C:\Users\User\Desktop\Ism\ISMConditionalStatements\WinConsoleTask\obj\Debug\WinConsoleTask.pdb
