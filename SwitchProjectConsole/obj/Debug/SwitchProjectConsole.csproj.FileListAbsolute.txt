@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Ism\ISMConditionalStatements\SwitchProjectConsole\bin\Debug\SwitchProjectConsole.exe.config
+C:\Users\User\Desktop\Ism\ISMConditionalStatements\SwitchProjectConsole\bin\Debug\SwitchProjectConsole.exe
+C:\Users\User\Desktop\Ism\ISMConditionalStatements\SwitchProjectConsole\bin\Debug\SwitchProjectConsole.pdb
+C:\Users\User\Desktop\Ism\ISMConditionalStatements\SwitchProjectConsole\obj\Debug\SwitchProjectConsole.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Ism\ISMConditionalStatements\SwitchProjectConsole\obj\Debug\SwitchProjectConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ism\ISMConditionalStatements\SwitchProjectConsole\obj\Debug\SwitchProjectConsole.exe
+C:\Users\User\Desktop\Ism\ISMConditionalStatements\SwitchProjectConsole\obj\Debug\SwitchProjectConsole.pdb
